@@ -1,0 +1,17 @@
+[package]
+name = "shared"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+doctest = false
+
+[features]
+test-helpers = ["dep:fake"]
+
+[dependencies]
+# test-helpers
+fake = { version = "4.0.0", features = ["derive"], optional = true }
+
+serde = { version = "1.0.219", features = ["derive"] }
+validator = { version = "0.20.0", features = ["derive"] }

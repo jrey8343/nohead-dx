@@ -1,0 +1,11 @@
+/Users/jaredreyes/Developer/nohead-dx/target/debug/deps/libquote-10252b8338f02eb4.rmeta: /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/lib.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/ext.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/format.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/ident_fragment.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/to_tokens.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/runtime.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/spanned.rs
+
+/Users/jaredreyes/Developer/nohead-dx/target/debug/deps/quote-10252b8338f02eb4.d: /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/lib.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/ext.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/format.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/ident_fragment.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/to_tokens.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/runtime.rs /Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/spanned.rs
+
+/Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/lib.rs:
+/Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/ext.rs:
+/Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/format.rs:
+/Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/ident_fragment.rs:
+/Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/to_tokens.rs:
+/Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/runtime.rs:
+/Users/jaredreyes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.39/src/spanned.rs:
